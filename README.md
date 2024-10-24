@@ -82,7 +82,7 @@ Here's a breakdown of my skills:
 
 <div align="center">
   <a href="https://github.com/varshitha-9/Investigating-the-Correlation-Between-Social-Media-Use-and-Mental-Health">
-    <img src="images.jpg" alt="Social Media & Mental Health Project" width="400">
+    <img src="https://rajeshwarhospital.com/blogs/wp-content/uploads/2023/11/The-Impact-of-Social-Media-on-Mental-Health.jpeg" alt="Social Media & Mental Health Project" width="400">
   </a>
 </div>
 
